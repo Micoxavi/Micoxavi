@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Xavi
-
-I'm a mechatronics engineer currently finishing a master's degree in Computer Vision and Artificial Intelligence.  
+## I'm a mechatronics engineer currently finishing a master's degree in Computer Vision and Artificial Intelligence.  
 I'm a multidisciplinary engineer who thrives under pressure and enjoys learning new technologies every day.  
 I believe attitude is the most important skill when it comes to solving problems — everything can be learned with the right mindset.
 
@@ -27,7 +26,8 @@ I'm passionate about solving real-world problems through code. I specialize in P
 - 💼 Currently developing computer-vision solutions for lighting validation and imaging in an optical laboratory  
 - ⚙️ Experienced in CV-driven quality control and inspection, from lab benches to automotive applications  
 - 🔍 Hands-on experience with multi-sensor time-alignment (LiDAR, cameras) and real-time data processing  
-- 🧪 Maker at heart — I love prototyping, optimizing code, and hacking on side projects  
+- 🧪 Maker at heart — I love prototyping, optimizing code, and hacking on side projects
+- 🍳 Fun fact: I’m a passionate home-chef who loves experimenting with flavours and techniques from different cultures
 
 
 ---
@@ -39,6 +39,7 @@ I'm passionate about solving real-world problems through code. I specialize in P
 - Technical documentation automation
 - System engineering and infrastructure
 - Robotics (active member of a competitive team @theengineeringway)
+- Learning about AI Agents
 
 ---
 
