@@ -12,36 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Xavi
-## Mechatronics engineer finishing a master's degree in CV & AI.  
-I'm a multidisciplinary engineer who thrives under pressure and enjoys learning new technologies every day.  
-I believe attitude is the most important skill when it comes to solving problems — everything can be learned with the right mindset.
+# 👋 Hi, I’m Xavi  
+## Mechatronics engineer completing an M.Sc. in Computer Vision & AI
 
-I'm passionate about solving real-world problems through code. I specialize in Python, computer vision and deep learning frameworks, and I enjoy building useful, well-documented systems that combine hardware, software, and automation.
-
+I thrive under pressure and firmly believe that attitude is the key to solving problems—anything can be learned with the right mindset. I’m passionate about tackling real-world challenges through code, specializing in Python, computer vision, and deep learning to build robust, well-documented systems that blend hardware and software.
 
 ### 💡 About Me
 
-- 🎓 Engineer focused on automating analysis, testing, and documentation in electronics & optical labs  
-- 💼 Currently developing computer-vision solutions for lighting validation and imaging in an optical laboratory  
-- ⚙️ Experienced in CV-driven quality control and inspection, from lab benches to automotive applications  
-- 🔍 Hands-on experience with multi-sensor time-alignment (LiDAR, cameras) and real-time data processing  
-- 🧪 Maker at heart — I love prototyping, optimizing code, and hacking on side projects
-- 🍳 Fun fact: I’m a passionate home-chef who loves experimenting with flavours and techniques from different cultures
+- 🎓 Mechatronics engineer on a Master’s in Computer Vision & AI  
+- ⚙️ Automating analysis, testing & documentation in electronics & optical labs  
+- 🔍 Hands-on with CV-driven quality control, LiDAR+camera sync & real-time pipelines  
+- 🤖 Active member of a competitive robotics team (The Engineering Way)  
+- 🧪 Maker at heart: prototyping, optimizing code & side-project hacking  
+- 🍳 Home-chef passionate about experimenting with global flavours  
 
-
----
-
-### 🧠 Interests
-
-- Computer Vision (OpenCV, PyTorch, real-time processing)
-- Industrial AI & automation
-- Technical documentation automation
-- System engineering and infrastructure
-- Robotics (active member of a competitive team @theengineeringway)
-- Learning about AI Agents
-
----
 
 ### 🛠️ Tech Stack
 <!-- Core Languages & OS -->
@@ -53,6 +37,7 @@ I'm passionate about solving real-world problems through code. I specialize in P
 
 <!-- CV / AI Stack -->
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Numpy]
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
@@ -60,7 +45,6 @@ I'm passionate about solving real-world problems through code. I specialize in P
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![ReportLab](https://img.shields.io/badge/ReportLab-FF6F00?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=flat&logo=openai&logoColor=white)
-
 
 ---
 
@@ -83,7 +67,7 @@ I'm passionate about solving real-world problems through code. I specialize in P
 
 ### 📬 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-here)
-- 📧 your.email@example.com
-- 📝 [Medium](https://medium.com/@your-medium-profile) (Coming soon)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile-here](https://www.linkedin.com/in/xavier-mico-perez/))
+- 📧 xavier.mico.perez@gmail.com
+- 📝 [Medium](https://medium.com/@xavier.mico.perez) (Coming soon)
 
