@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Xavi
-## I'm a mechatronics engineer currently finishing a master's degree in Computer Vision and Artificial Intelligence.  
+## Mechatronics engineer finishing a master's degree in CV & AI.  
 I'm a multidisciplinary engineer who thrives under pressure and enjoys learning new technologies every day.  
 I believe attitude is the most important skill when it comes to solving problems — everything can be learned with the right mindset.
 
