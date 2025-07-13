@@ -67,7 +67,7 @@ I thrive under pressure and firmly believe that attitude is the key to solving p
 
 ### 📬 Let's connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile-here](https://www.linkedin.com/in/xavier-mico-perez/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/xavier-mico-perez/)
 - 📧 xavier.mico.perez@gmail.com
 - 📝 [Medium](https://medium.com/@xavier.mico.perez) (Coming soon)
 
