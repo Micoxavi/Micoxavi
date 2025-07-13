@@ -50,9 +50,9 @@ I’m passionate about tackling real-world challenges through code, specializing
 
 ### 🚀 Featured Projects
 
-- 🔍 [**visual-recognition-master**](https://github.com/mirrdj/C5-visual-recognition-G2) – Visual recognition master project using PyTorch
-- 🛰️ [**Video Tracking and Action spotting**](https://github.com/MCV2025/MCV_C6_G7_2025) – Video related projects for the UAB master Computer Vision using Pytorch, YOLOv8 and more
-- 🧪 [**Reinforcement Learning Pong**](https://github.com/xaviai/tfm-defectos-soldadura) – In this project I use RL to teach the computer play pong!
+- 🖼️ [**visual-recognition-master**](https://github.com/mirrdj/C5-visual-recognition-G2) – Visual recognition master project using PyTorch
+- 🎥 [**Video Tracking and Action spotting**](https://github.com/MCV2025/MCV_C6_G7_2025) – Video related projects for the UAB master Computer Vision using Pytorch, YOLOv8 and more
+- 🕹️ [**Reinforcement Learning Pong**](https://github.com/Micoxavi/MCV_reinforcement) – In this project I use RL to teach the computer play pong!
 
 ---
 
@@ -68,6 +68,6 @@ I’m passionate about tackling real-world challenges through code, specializing
 ### 📬 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavier-mico-perez/)
-- 📧 xavier.mico.perez@gmail.com
+- 📧 [Email] xavier.mico.perez@gmail.com
 - 📝 [Medium](https://medium.com/@xavier.mico.perez) (Coming soon)
 
