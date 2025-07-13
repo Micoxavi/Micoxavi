@@ -50,7 +50,7 @@ I’m passionate about tackling real-world challenges through code, specializing
 
 ### 🚀 Featured Projects
 
-- 🔍 [**cv-audit-retail**](https://github.com/xaviai/cv-audit-retail) – Visual shelf auditing tool using PyTorch + OpenCV for retail analytics
+- 🔍 [****](https://github.com/mirrdj/C5-visual-recognition-G2) – Visual shelf auditing tool using PyTorch + OpenCV for retail analytics
 - 🛰️ [**lidar-mask-matcher**](https://github.com/xaviai/lidar-mask-matcher) – Timestamp-based synchronization between LiDAR and semantic masks
 - 🧪 [**tfm-defectos-soldadura**](https://github.com/xaviai/tfm-defectos-soldadura) – Automated X-ray weld inspection (Master's thesis project)
 
