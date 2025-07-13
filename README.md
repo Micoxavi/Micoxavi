@@ -68,6 +68,6 @@ I’m passionate about tackling real-world challenges through code, specializing
 ### 📬 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavier-mico-perez/)
-- 📧 [Email] xavier.mico.perez@gmail.com
+- 📧 xavier.mico.perez@gmail.com
 - 📝 [Medium](https://medium.com/@xavier.mico.perez) (Coming soon)
 
