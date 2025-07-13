@@ -22,7 +22,7 @@ I thrive under pressure and firmly believe that attitude is the key to solving p
 - 🎓 Mechatronics engineer on a Master’s in Computer Vision & AI  
 - ⚙️ Automating analysis, testing & documentation in electronics & optical labs  
 - 🔍 Hands-on with CV-driven quality control, LiDAR+camera sync & real-time pipelines  
-- 🤖 Active member of a competitive robotics team (The Engineering Way)  
+- 🤖 Robotics (active member of a competitive team: [The Engineering Way](https://github.com/theengineeringway)) 
 - 🧪 Maker at heart: prototyping, optimizing code & side-project hacking  
 - 🍳 Home-chef passionate about experimenting with global flavours  
 
@@ -37,7 +37,7 @@ I thrive under pressure and firmly believe that attitude is the key to solving p
 
 <!-- CV / AI Stack -->
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Numpy]
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
