@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m Xavi  
 ## Mechatronics engineer completing an M.Sc. in Computer Vision & AI
 
-I thrive under pressure and firmly believe that attitude is the key to solving problems—anything can be learned with the right mindset. I’m passionate about tackling real-world challenges through code, specializing in Python, computer vision, and deep learning to build robust, well-documented systems that blend hardware and software.
+I’m passionate about tackling real-world challenges through code, specializing in Python, computer vision, and deep learning to build robust, well-documented systems that blend hardware and software.
 
 ### 💡 About Me
 
