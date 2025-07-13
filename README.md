@@ -22,7 +22,7 @@ I thrive under pressure and firmly believe that attitude is the key to solving p
 - 🎓 Mechatronics engineer on a Master’s in Computer Vision & AI  
 - ⚙️ Automating analysis, testing & documentation in electronics & optical labs  
 - 🔍 Hands-on with CV-driven quality control, LiDAR+camera sync & real-time pipelines  
-- 🤖 Robotics (active member of a competitive team: [The Engineering Way]([https://github.com/theengineeringway])
+- 🤖 Robotics (active member of a competitive team: [The Engineering Way](https://github.com/theengineeringway))
 - 🧪 Maker at heart: prototyping, optimizing code & side-project hacking  
 - 🍳 Home-chef passionate about experimenting with global flavours  
 
